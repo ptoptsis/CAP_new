@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:846085401091:android:cc76da5a91e522d9db3c36",
         "android_client_info": {
-          "package_name": "cy.com.cap.academy1"
+          "package_name": "cy.com.cap.academy2"
         }
       },
       "oauth_client": [
@@ -35,7 +35,7 @@
               "client_id": "846085401091-l8001un8r23ll2isclfmihkck4t1vgm1.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "cy.com.cap.academy1"
+                "bundle_id": "cy.com.cap.academy2"
               }
             }
           ]
