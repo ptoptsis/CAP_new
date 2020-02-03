@@ -1,0 +1,43 @@
+{
+    "app_id": "cy.com.cap.academy2",
+    "appname": "Retail Academy",
+    "desktopappname": "Retail Academy Desktop",
+    "versioncode": 3810,
+    "versionname": "3.8.1-dev",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "en",
+    "languages": {
+        "el": "Ελληνικά",
+        "en": "English",
+        "en-us": "English - United States"
+    },
+    "wsservice": "moodle_mobile_app",
+    "wsextservice": "local_mobile",
+	"demo_sites": "",
+    "font_sizes": [
+        62.5,
+        75.89,
+        93.75
+    ],
+    "customurlscheme": "moodlemobile",
+    "siteurl": "academy.cap.com.cy",
+    "sitename": "C. A. Papaellinas LMS",
+    "multisitesdisplay": "",
+    "skipssoconfirmation": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https:\/\/www.humanasset.com\/?page_id=12144",
+    "notificoncolor": "#f98012",
+    "statusbarbg": false,
+    "statusbarlighttext": false,
+    "statusbarbgios": "#f98012",
+    "statusbarlighttextios": true,
+    "statusbarbgandroid": "#df7310",
+    "statusbarlighttextandroid": true,
+    "statusbarbgremotetheme": "#000000",
+    "statusbarlighttextremotetheme": true,
+    "enableanalytics": false,
+    "forceColorScheme": ""
+}

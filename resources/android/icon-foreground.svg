@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="96" inkscape:export-xdpi="96" inkscape:export-filename="/Users/pau/git/mm3/resources/android/icon-foreground.png" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="icon-foreground.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2048px" height="2048px"
+	 viewBox="0 0 2048 2048" enable-background="new 0 0 2048 2048" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="-1188.1419" inkscape:cx="-652.75324" inkscape:zoom="0.11523438" showgrid="false" guidetolerance="10" gridtolerance="10" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" id="namedview21" inkscape:current-layer="Layer_1" inkscape:window-maximized="0" inkscape:window-y="73" inkscape:window-x="1894" inkscape:window-height="970" inkscape:window-width="1306" inkscape:pageshadow="2" inkscape:pageopacity="0">
+	</sodipodi:namedview>
+<title  id="title6">MoodleApp_Icon_White_RGB</title>
+<g id="g118" transform="matrix(0.59052793,0,0,0.59052793,211.20967,210.89845)">
+	<path id="path10" inkscape:connector-curvature="0" fill="#F48020" d="M1763.362,1863.975v-478.319c0-100-41.333-150-124-150
+		c-82.666,0-124,50-124,150v478.319h-243.34v-478.319c0-100-40.6-150-121.799-150c-82.667,0-123.967,50-123.901,150v478.319H782.783
+		v-506.56c0-104.361,36.233-183.347,108.7-236.96c63.798-47.84,150.046-71.773,258.74-71.799
+		c110.187,0,191.366,28.265,243.54,84.799c44.92-56.519,126.82-84.786,245.698-84.799c108.722,0,194.954,23.933,258.7,71.799
+		c72.467,53.6,108.702,132.586,108.702,236.96v506.56H1763.362z"/>
+	<path id="path12" inkscape:connector-curvature="0" fill="#F48020" stroke="#4A4A4C" stroke-width="5.24" d="M488.183,1141.135"/>
+	<path id="path14" inkscape:connector-curvature="0" fill="#F48020" stroke="#4A4A4C" stroke-width="5.28" d="M492.482,1139.135"/>
+	<path id="path16" inkscape:connector-curvature="0" fill="#333333" d="M1252.261,1013.136l243.8-177.441l-3.119-10.799
+		c-412.621,42.54-654.2,97.999-1010.14,308.979l3.22,10.541l93.059-2.98c67.121,2.32,136.521,5.58,203.4,5.859
+		c-3.341,36.56-1.819,79.701,5.201,130.281l0,0l-1.621,14.199c229.819,77.82,448,6.76,562.72-194.299l-6.78-9.239
+		C1323.262,1067.235,1285.182,1036.316,1252.261,1013.136z"/>
+	<path id="path18" inkscape:connector-curvature="0" fill="#333333" d="M986.363,982.835c-1.341-4.76-9.841-6.519-18.96-4
+		c-6.98,2.001-12.34,5.881-13.901,9.72c-81.999,22-217.559,60.719-313,92.861l-5.881,1.999
+		c-73.86,24.84-109.439,37.581-111.64,55.52c-10.119,81.641-3.86,186.701-3.8,188l0.82,28.359
+		c-43.079,121.999,0.301,219.52,37.121,308.799c0.24-110.339,4.72-200.159-26.42-314.359c-0.881-16.921-6.62-134.38,2.659-209.52
+		c1.52-12.18,51.581-29.039,104.6-46.859l5.879-2.001c97.521-32.819,237.061-72.479,318.2-94.199
+		c3.427,0.238,6.866-0.135,10.16-1.101c9.12-2.54,15.461-8.46,14.159-13.22H986.363z"/>
+</g>
+<image overflow="visible" width="3508" height="2480" xlink:href="../../../../Desktop/Αρχεία Διάφορα Δουλειές/Papaelinas/logo.png"  transform="matrix(0.4884 0 0 0.4884 167.415 418.4336)">
+</image>
+</svg>
