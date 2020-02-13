@@ -14,7 +14,7 @@
 
 // Based on the template node_modules/cordova-android/bin/templates/project/Activity.java
 
-package cy.com.cap.academy2;
+package cy.com.cap.academy1;
 
 import android.os.Bundle;
 import android.view.KeyEvent;

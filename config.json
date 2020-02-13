@@ -1,9 +1,9 @@
 {
-    "app_id": "cy.com.cap.academy2",
+    "app_id": "cy.com.cap.academy1",
     "appname": "Retail Academy",
     "desktopappname": "Retail Academy Desktop",
     "versioncode": 3810,
-    "versionname": "3.8.1-dev",
+    "versionname": "3.8.1",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
